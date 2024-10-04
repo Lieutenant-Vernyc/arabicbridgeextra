@@ -14,6 +14,11 @@ export default function Home() {
               </Link>
             </li>
             <li>
+              <Link href="/support" legacyBehavior>
+                <a>Support</a>
+              </Link>
+            </li>
+            <li>
               <Link href="/deletes-data" legacyBehavior>
                 <a>Deletes Data</a>
               </Link>
@@ -21,6 +26,11 @@ export default function Home() {
             <li>
               <Link href="/others" legacyBehavior>
                 <a>Others</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/faqs" legacyBehavior>
+                <a>FAQs</a>
               </Link>
             </li>
           </ul>

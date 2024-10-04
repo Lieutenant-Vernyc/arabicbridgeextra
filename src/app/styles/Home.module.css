@@ -65,3 +65,46 @@
   align-items: center;
   border-top: 1px solid #eaeaea;
 }
+.supportSection {
+  margin-top: 2rem;
+  max-width: 800px;
+  text-align: left;
+}
+
+.supportSection a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.supportSection a:hover {
+  text-decoration: underline;
+}
+
+/* styles/Home.module.css */
+
+.faqSection {
+  max-width: 800px;
+  margin: 2rem auto;
+  text-align: left;
+}
+
+.faqSection h2 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.faqSection p {
+  font-size: 1.2rem;
+  color: #555;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.faqSection a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.faqSection a:hover {
+  text-decoration: underline;
+}
