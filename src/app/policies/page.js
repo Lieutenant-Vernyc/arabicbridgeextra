@@ -15,6 +15,16 @@ export default function Policies() {
               <Link href="/deletes-data">Deletes Data</Link>
             </li>
             <li>
+              <Link href="/support" legacyBehavior>
+                <a>Support</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/faqs" legacyBehavior>
+                <a>FAQs</a>
+              </Link>
+            </li>
+            <li>
               <Link href="/others">Others</Link>
             </li>
           </ul>

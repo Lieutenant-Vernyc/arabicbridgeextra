@@ -18,6 +18,7 @@ export default function Home() {
                 <a>Support</a>
               </Link>
             </li>
+            
             <li>
               <Link href="/deletes-data" legacyBehavior>
                 <a>Deletes Data</a>
